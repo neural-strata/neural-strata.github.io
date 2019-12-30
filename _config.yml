@@ -1,4 +1,4 @@
 include: [".well-known"]
 permalink: .well-known/assetlinks.json
 baseurl: ""
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
