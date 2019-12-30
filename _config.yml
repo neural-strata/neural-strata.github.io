@@ -1,0 +1,3 @@
+include: [".well-known"]
+permalink: .well-known/assetlinks.json
+baseurl: ""
